@@ -36,6 +36,6 @@ print(negative_feedback)
 
   
 <H3>Output:</H3>
-![output]()
+![output](https://github.com/jhansi21005096/Project-Based-Experiment-AAI/blob/main/output%20p.png)
 <H3>Inference:</H3>
-Thus sentiment analysis using your Facebook data ias done and filtering the data that has only negative feedback for the code is done.
+Thus sentiment analysis using your Facebook data ias done and filtering the data that n only negative feedback for the code is done.
